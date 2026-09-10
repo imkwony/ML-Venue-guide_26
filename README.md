@@ -1,11 +1,12 @@
+# 클로드가 생성한 후 검증 없었음. 다시 살펴봐야 함.
+
+
 # Causal ML Venue Guides — 인과추론 연구자를 위한 학회·저널 안내
 
 머신러닝·AI의 flagship 학회와 인과추론 커뮤니티의 학회·저널을, 채택률·Impact Factor·h5-index 같은 공개 품질 지표와 함께 한곳에서 살펴볼 수 있는 링크 허브입니다.
 
 ## 공개 사이트
-
-GitHub Pages로 배포한 뒤 이 저장소의 실제 주소로 교체하세요.
-예: `https://<your-username>.github.io/causal-ml-venue-guides/`
+https://imkwony.github.io/causal-ml-venue-guides/
 
 ## 구성
 
@@ -33,3 +34,7 @@ GitHub Pages로 배포한 뒤 이 저장소의 실제 주소로 교체하세요.
 ## 지표 검증
 
 2026-09-10 기준 공식 통계(NeurIPS/ICML/ICLR/AAAI/UAI/AISTATS 채택률), Journal Citation Reports(JASA/Biometrika/Journal of Causal Inference Impact Factor), Google Scholar Metrics/CORE 랭킹(JMLR)을 근거로 작성했습니다.
+
+## 원본 출처
+이 사이트의 UI와 타임라인 포맷은 gisbi-kim님의 https://gisbi-kim.github.io/robotics-venue-guides/를 참고하여 제작되었습니다. 
+
