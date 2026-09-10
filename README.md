@@ -6,7 +6,7 @@
 머신러닝·AI의 flagship 학회와 인과추론 커뮤니티의 학회·저널을, 채택률·Impact Factor·h5-index 같은 공개 품질 지표와 함께 한곳에서 살펴볼 수 있는 링크 허브입니다.
 
 ## 공개 사이트
-https://imkwony.github.io/causal-ml-venue-guides/
+https://imkwony.github.io/ML-Venue-guide_26
 
 ## 구성
 
